@@ -1,6 +1,6 @@
 # Programação Orientada a Objetos (POO) - Curso em Vídeo
 
-Este repositório contém os exercícios que realizei durante o curso de **Programação Orientada a Objetos (POO)** oferecido pelo [Gustavo Guanabara](https://github.com/gustavoguanabara) no canal [Curso em Vídeo](https://www.cursoemvideo.com/).
+Este repositório contém os exercícios que realizei com JAVA durante o curso de **Programação Orientada a Objetos (POO)** oferecido pelo [Gustavo Guanabara](https://github.com/gustavoguanabara) no canal [Curso em Vídeo](https://www.cursoemvideo.com/).
 
 ## 📝 Descrição do Curso
 O curso de **POO** aborda os princípios fundamentais da Programação Orientada a Objetos, uma das abordagens mais importantes para o desenvolvimento de software. Nele, aprendi sobre:
