@@ -97,18 +97,18 @@ public class Livro implements Publicacao {
 		}
 		
 	}
+	
 	@Override
 	public void avancarPag() {
 		if (getTotPaginas() > 0 && getTotPaginas() >= getPagAtual()) {
 			this.pagAtual++;
 		}
-		
 	}
+	
 	@Override
 	public void voltarPag() {
 		if (getTotPaginas() > 0) {
 			this.pagAtual--;
 		}
-		
 	}
 }
